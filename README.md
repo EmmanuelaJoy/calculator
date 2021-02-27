@@ -1,17 +1,17 @@
-# Moringa Project 1
+# Mini Project
 
-<h1>My Portfolio</h1>
+<h1>A simple calculator.</h1>
 <table>
 <tr>
 <td>
-  A webpage displaying information about me such as my background,my projects and my hobbies.
+  A webpage displaying a simple calculator that adds, subtracts, multiplies and divides two numbers enetered by the user.
 </td>
 </tr>
 </table>
 
 ## Demo
 
-Here is a working live demo : https://emmanuelajoy.github.io/my-portfolio/
+Here is a working live demo : https://emmanuelajoy.github.io/calculator/
 
 ### Development
 
@@ -36,16 +36,16 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Built with
 
 - HTML
-- CSS
+- Javascript
 
 ## To-do
 
-- Add responsive design feature.
+- Add user interface design.
 
 ## Team
 
 [Emmanuela Joy ](https://github.com/EmmanuelaJoy)
 
-## [License](https://github.com/EmmanuelaJoy/my-portfolio/blob/main/LICENSE)
+## [License](https://github.com/EmmanuelaJoy/calculator/blob/main/LICENSE)
 
 MIT © [Emmanuela Joy ](https://github.com/EmmanuelaJoy)
